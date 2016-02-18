@@ -100,3 +100,4 @@ if __name__ == '__main__':
     ## print pick_three_cards(make_set())
     ## To check if a given set is a set:
     ## print is_set([('red', 'shade', 'oval', 3), ('green', 'shade', 'oval', 3), ('purple', 'shade', 'oval', 3)])
+    ## git test
